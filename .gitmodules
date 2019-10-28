@@ -1,0 +1,3 @@
+[submodule "themes/hugo-owaraiclub"]
+	path = themes/hugo-owaraiclub
+	url = https://github.com/tcgriffith/hugo-owaraiclub
